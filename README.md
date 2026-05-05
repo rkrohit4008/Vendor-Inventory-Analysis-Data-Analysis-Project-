@@ -8,6 +8,8 @@ This project focuses on analyzing vendor and inventory data to identify profitab
 ## Data Source
 - Raw data collected in CSV format
 - Data stored and managed using SQLite database
+## Due to file size limitations, the complete dataset is hosted externally.
+Full Dataset: https://drive.google.com/drive/folders/1KFOOgofj6THoQPb2I1VVhOqRjIWS55GO?usp=sharing
 
 ## Tools & Technologies
 - Python (Pandas, NumPy)
